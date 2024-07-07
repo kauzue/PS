@@ -1,0 +1,5 @@
+﻿  Percentage.c
+D:\Visual Studio\Probability_and_Statistics\Probability_and_Statistics\Percentage.c(19,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+  코드를 생성하고 있습니다...
+  Probability_and_Statistics.vcxproj -> D:\Visual Studio\Probability_and_Statistics\x64\Debug\Probability_and_Statistics.exe

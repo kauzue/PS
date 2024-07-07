@@ -1,0 +1,8 @@
+﻿  main.c
+  Percentage.c
+D:\Visual Studio\Probability_and_Statistics\Probability_and_Statistics\Percentage.c(19,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Probability_and_Statistics.vcxproj -> D:\Visual Studio\Probability_and_Statistics\x64\Release\Probability_and_Statistics.exe
